@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+h1{
+  margin-bottom: 5px;
+}
+.login-container{
+  border-radius: 8px;
+  border: 1px solid black;
+  margin: 20px;
+padding: 20px;
+width: 40%;
+height: 300px;
+}
+
+input{
+  width: 550px;
+  height: 40px;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 6px;
+
+}
+
+.main{
+ position: relative;
+ top: 150px;
+ left: 400px;
+
+}
+
+button{
+  margin: 10px;
+  background-color:#34e35d;
+  border-radius: 5px;
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+}
